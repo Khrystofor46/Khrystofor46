@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khrystofor46
+- 👋 Hi, I’m @Ontos46
 - 👀 I’m interested in bioinformatics/machine learning
 - 🌱 I’m currently learning Python applications in cancer research
 - 💞️ I’m looking to collaborate on ...
